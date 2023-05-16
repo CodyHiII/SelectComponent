@@ -1,0 +1,10 @@
+:root {
+  --select-main-color: #dedede;
+  --select-second-color: #818181;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
